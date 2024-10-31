@@ -1,0 +1,10 @@
+---
+title: "Car Insurance"
+output: pdf_document
+date: "2024-10-16"
+---
+
+```{r}
+data <- read.csv()
+```
+
